@@ -154,8 +154,7 @@ same for each digit. So `#11dd99` can be written as `#1d9`.
 ### Coloring the Rainbow
 
 To get ROYGBIV onto our rainbow we'll need seven hex colors. Red:
-`#f00`; Orange: `#ffa500`; Yellow: `#ff0`; Green: `#00bc3f`; Blue: `#06f`;
-Indigo: `#8a2be2`; Violet: `#d300c9`
+`#f00`; Orange: `#ffa500`; bun
 
 All we have to do next is select each div individually and apply each of those
 colors. That is a perfect use for ids since they're meant to style one specific
